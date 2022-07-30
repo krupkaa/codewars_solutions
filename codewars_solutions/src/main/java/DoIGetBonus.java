@@ -1,5 +1,5 @@
 public class DoIGetBonus {
-    
+
     public static String bonusTime(final int salary, final boolean bonus) {
         if(bonus == true) {
             int newSal = salary * 10;
